@@ -1,6 +1,6 @@
 # [FINAL MANUSCRIPT] gcc 2.0: The Unified Logic of Spontaneous Symmetry Breaking and Information Collapse
 
-**Author:** [ganchangcai / Architect]
+**Author:** [gcc / Architect]
 **Field:** Mathematical Physics / Information Topology / Quantum Logic
 **Structure:** Taiji-Möbius Integrated Framework
 
